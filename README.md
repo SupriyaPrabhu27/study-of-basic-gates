@@ -1,4 +1,7 @@
-### study-of-basic-gates
+### Supriya Prabhu
+### 212224240165
+
+### EXP NO 1: Study of basic gates
 
 **AIM:** 
 
@@ -64,16 +67,24 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+ ![image](https://github.com/user-attachments/assets/84a6d697-2adc-48a9-a9df-9c18c8824e8e)
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+
+![image](https://github.com/user-attachments/assets/ea25b3c2-5928-4b1a-9508-2cb2821f16a8)
 
 **RTL realization Output:** 
 
+![image](https://github.com/user-attachments/assets/bf7d336a-73ac-458b-b8a8-556e08855e0c)
+
+
 **RTL**
 
+![image](https://github.com/user-attachments/assets/e97a0c2a-6e4d-47d2-8a08-aaee310f8aa4)
+
+
 **Result:**
+
+The truth tablecof the specified logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) was successfully implemented and verified using Verilog programming in Quartus II.
 
 
